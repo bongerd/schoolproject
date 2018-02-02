@@ -23,17 +23,17 @@ als het goed is staat daar nu een map met de naam `fritzing.0.9.3b.64.pc` dubbel
 De eerste duurt het lang voordat Fritzing is gestart, wacht rustig af....
 
 Na een tijdje zal hetvolgende scherm komen:
-![]({{ '/' | absolute_url }}images/Fritzing_modifiedfiles.PNG?raw=true)
+![](/schoolproject/images/Fritzing_modifiedfiles.PNG?raw=true)
 
 Klik op `clean files` en wacht weer totdat fritzing klaar is...
 
 Na een tijdje zal hetvolgende scherm komen:
-![]({{ '/' | absolute_url }}images/Fritzing_updateparts.PNG?raw=true)
+![](/schoolproject/images/Fritzing_updateparts.PNG?raw=true)
 
 Klik op `update parts` en wacht weer totdat fritzing klaar is...
 
 Na een tijdje zal hetvolgende scherm komen:
-![]({{ '/' | absolute_url }}images/Fritzing_success.PNG?raw=true)
+![](/schoolproject/images/Fritzing_success.PNG?raw=true)
 
 Klik op `close`
 
