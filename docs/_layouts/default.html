@@ -48,10 +48,10 @@
               .tar.gz file
             </a>
           {% endif %}
-          <a href='/'><h1>Startpagina</h1></a>
+          <a href="{{ '/' | absolute_url }}"><h1>Startpagina</h1></a>
           <h1>Programma's installeren</h1>
-              <a href='/fritzing'><h3>Fritzing installeren</h3></a>
-              <a href='/arduino'><h3>Arduino IDE installeren</h3></a>
+              <a href="{{ '/' | absolute_url }}/fritzing"><h3>Fritzing installeren</h3></a>
+              <a href="{{ '/' | absolute_url }}/arduino"><h3>Arduino IDE installeren</h3></a>
 
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
