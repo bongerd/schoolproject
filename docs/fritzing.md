@@ -2,8 +2,7 @@
 title: Fritzing installeren
 ---
 
-
-Downloaden
+Fritzing Installeren
 =====
 [Download de windows versie van Fritzing](http://fritzing.org/download/0.9.3b/windows-64bit/fritzing.0.9.3b.64.pc.zip)
 
@@ -18,7 +17,7 @@ In het nieuwe venster kun je kiezen waar de uitgepakte bestanden gekopieerd moet
 Als het uitpakken klaar is type dan de `windows toets` en de `e` op je toetsenbord tegelijk in.
 
 Toets bovenin het venster in de adresbalk `c:\fritzing` in en druk dan op `Enter`.
-als het goed is staat daar nu een map met de naam `fritzing.0.9.3b.64.pc` dubbelklik daarop en start `fritzing`
+als het goed is staat daar nu een map met de naam `fritzing.0.9.3b.64.pc` dubbelklik daarop en start ![]![](/schoolproject/images/fritzing icon.PNG?raw=true)
 
 De eerste duurt het lang voordat Fritzing is gestart, wacht rustig af....
 
@@ -45,4 +44,4 @@ Type `windows toets` en de `e` op je toetsenbord tegelijk in.
 
 Toets bovenin het venster in de adresbalk `c:\fritzing` in en druk dan op `Enter`.
 
-Klik op de map met de naam `fritzing.0.9.3b.64.pc` dubbelklik daarop en start `fritzing`
+Klik op de map met de naam `fritzing.0.9.3b.64.pc` dubbelklik daarop en start ![]![](/schoolproject/images/fritzing icon.PNG?raw=true)
